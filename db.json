@@ -8,7 +8,7 @@
                 "Dessert"
             ],
             "image": "http://forkgasm.com/images/bread-pudding.png",
-            "ingredient": [
+            "ingredients": [
                 {
                     "amount": "0.5",
                     "unit": "cup",
@@ -70,7 +70,7 @@
                 "Dessert",
                 "Ice Cream"
             ],
-            "ingredient": [
+            "ingredients": [
                 {
                     "amount": "4",
                     "unit": "cups",
@@ -132,7 +132,7 @@
             "tag": [
                 "Bacon"
             ],
-            "ingredient": [
+            "ingredients": [
                 {
                     "amount": "16",
                     "unit": "oz",
